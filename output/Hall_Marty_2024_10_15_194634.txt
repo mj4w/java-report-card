@@ -1,0 +1,12 @@
+Student ID: 1112223332
+Name: Marty Hall
+
+Subject                        Grade
+Filipino                        81.0
+English                         88.0
+Math                            90.0
+Mapeh                           92.0
+Science                         87.0
+Araling Panlipunan              82.0
+
+Average Grade					86.67

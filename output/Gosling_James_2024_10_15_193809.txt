@@ -1,0 +1,12 @@
+Student ID: 1112223331
+Name: James Gosling
+
+Subject                        Grade
+Filipino                        90.0
+English                         87.0
+Math                            88.0
+Mapeh                           85.0
+Science                         95.0
+Araling Panlipunan              83.0
+
+Average Grade					88.00
